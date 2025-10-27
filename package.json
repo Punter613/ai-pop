@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "@capacitor/android": "^7.4.3",
-    "android": "^0.0.8"
-  },
-  "devDependencies": {}
+    "ai": "^5.0.76",
+    "android": "^0.0.8",
+    "popup": "^0.0.3"
+  }
 }
